@@ -1,0 +1,7 @@
+python-telegram-bot==20.3
+flask
+flask-socketio
+requests
+pyngrok
+nest-asyncio
+python-multipart
